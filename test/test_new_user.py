@@ -14,16 +14,16 @@ def app(request):
 def test_invite_new_user(app):
     app.open_home_page()
     app.session.log_in(username="po@po.po", password="123a45=A")
-    app.open_users_tab()
-    app.invite_user("tmoskvina+22@sinergo.ru")
+    app.user.open_users_tab()
+    app.user.invite_user("tmoskvina+22@sinergo.ru")
     time.sleep(1)
     app.session.log_out()
 
 def test_invite_new_co(app):
     app.open_home_page()
     app.session.log_in(username="po@po.po", password="123a45=A")
-    app.open_users_tab()
-    app.invite_new_co(email="tmoskvina+11@sinergo.ru")
+    app.user.open_users_tab()
+    app.user.invite_new_co(email="tmoskvina+11@sinergo.ru")
     time.sleep(1)
     app.session.log_out()
 
