@@ -2,7 +2,8 @@ from selenium import webdriver
 import  time
 import pytest
 from fixture.session import SessionHelper
-from fixture.users import UserHelper
+from fixture.users_u import UserHelper
+from fixture.users_co import UserCOHelper
 from fixture.pp import PainPointsHelper
 
 class Application:
@@ -11,6 +12,7 @@ class Application:
         self.wd = webdriver.Firefox(executable_path=r'C:\Users\tmoskvina\Downloads\geckodriver-v0.21.0-win64 (1)\geckodriver')
         self.wd.implicitly_wait(40)
         self.session = SessionHelper(self)
+        self.userCO = UserCOHelper(self)
         self.user = UserHelper(self)
         self.pp = PainPointsHelper(self)
 
@@ -23,3 +25,11 @@ class Application:
 
     def destroy(self):
         self.wd.quit()
+
+
+    def is_valid(self):
+        try:
+            self.wd.current_url
+            return True
+        except:
+            return False

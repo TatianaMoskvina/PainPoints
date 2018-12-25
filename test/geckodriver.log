@@ -1,0 +1,1026 @@
+1545624742451	geckodriver	INFO	geckodriver 0.21.0
+1545624742467	geckodriver	INFO	Listening on 127.0.0.1:54798
+1545624745513	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.vg5dGRLGO1y7"
+1545624746737	Marionette	INFO	Listening on port 54808
+1545624747165	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545624747241	Marionette	DEBUG	[6442450945] Frame script loaded
+1545624747243	Marionette	DEBUG	[6442450945] Frame script registered
+1545624747265	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545624747412	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545624748826	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624748830	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624748870	Marionette	INFO	Stopped listening on port 54808
+1545624748889	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1592:20
+_shutdown@XPIProvider.jsm:1728:12
+flushAllWindowsAsync@SessionStore.jsm:1697:7
+ssi_onQuitApplicationGranted/<@SessionStore.jsm:1624:27
+trigger@AsyncShutdown.jsm:710:23
+_wait@AsyncShutdown.jsm:857:7
+wait@AsyncShutdown.jsm:841:28
+observe@AsyncShutdown.jsm:524:17
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
+[Parent 9472, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9472, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11448, Chrome_ChildThread] WARNING: pipe error: 109: file [Parent 9472, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2056, Chrome_C[GPU 7380, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545624749435	geckodriver	INFO	geckodriver 0.21.0
+1545624749441	geckodriver	INFO	Listening on 127.0.0.1:54839
+1545624752470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.RG24dsLmbvPM"
+1545624753661	Marionette	INFO	Listening on port 54847
+1545624754114	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545624754172	Marionette	DEBUG	[6442450945] Frame script loaded
+1545624754173	Marionette	DEBUG	[6442450945] Frame script registered
+1545624754185	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545624754301	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545624755006	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624755010	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624755016	Marionette	INFO	Stopped listening on port 54847
+1545624755035	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1592:20
+_shutdown@XPIProvider.jsm:1728:12
+flushAllWindowsAsync@SessionStore.jsm:1697:7
+ssi_onQuitApplicationGranted/<@SessionStore.jsm:1624:27
+trigger@AsyncShutdown.jsm:710:23
+_wait@AsyncShutdown.jsm:857:7
+wait@AsyncShutdown.jsm:841:28
+observe@AsyncShutdown.jsm:524:17
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
+[Parent 11320, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11960, Chrome_[Parent 11320, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11320, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 420, Chrome_[Parent 11320, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[GPU 4924, Chrome_Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545624784960	geckodriver	INFO	geckodriver 0.21.0
+1545624784976	geckodriver	INFO	Listening on 127.0.0.1:54890
+1545624787991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.Rhr75mtLS8vN"
+1545624789156	Marionette	INFO	Listening on port 54899
+1545624789645	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545624789730	Marionette	DEBUG	[6442450945] Frame script loaded
+1545624789732	Marionette	DEBUG	[6442450945] Frame script registered
+1545624789755	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545624789871	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545624790541	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624790545	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624790550	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624790628	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624790628	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624790787	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624790790	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624790875	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624791082	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624791084	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624795094	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545624795099	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545624795125	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545624795222	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545624795225	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545624795889	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545624796399	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545624796702	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545624798097	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545624799393	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545624800669	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545624801936	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545624802039	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545624802214	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545624802222	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545624802354	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624802358	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624802362	Marionette	INFO	Stopped listening on port 54899
+[Child 10532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4792, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6364, Chrom[Parent 4792, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7660, Ch[GPU 3772, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545624802791	geckodriver	INFO	geckodriver 0.21.0
+1545624802791	geckodriver	INFO	Listening on 127.0.0.1:54939
+1545624805888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.LdGwxAD3m0Dy"
+1545624807094	Marionette	INFO	Listening on port 54949
+1545624807552	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545624807606	Marionette	DEBUG	[6442450945] Frame script loaded
+1545624807608	Marionette	DEBUG	[6442450945] Frame script registered
+1545624807623	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545624807739	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545624808416	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624808422	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624808427	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624808493	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624808493	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624808664	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624808667	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624808754	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624808929	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624808931	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624809247	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545624809249	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545624809267	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545624809331	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545624809334	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545624809643	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545624809751	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545624810021	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545624810243	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545624810558	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545624811804	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545624811925	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545624812053	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545624812058	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545624812191	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624812192	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545624812196	Marionette	INFO	Stopped listening on port 54949
+[Child 2312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 10352, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545626116303	geckodriver	INFO	geckodriver 0.21.0
+1545626116311	geckodriver	INFO	Listening on 127.0.0.1:55729
+1545626119348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.Pey7ttOXZ1lh"
+1545626120584	Marionette	INFO	Listening on port 55738
+1545626120964	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545626121029	Marionette	DEBUG	[6442450945] Frame script loaded
+1545626121031	Marionette	DEBUG	[6442450945] Frame script registered
+1545626121050	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545626123271	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545626131195	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626131200	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626131208	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626131277	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626131278	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626131431	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626131433	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626131508	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626131672	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626131673	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626132596	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545626132602	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545626132649	Marionette	INFO	Stopped listening on port 55738
+[Parent 12216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1640, Ch[Child 10740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10740, Chrome_ChildT[Parent 12216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9116, Chrome_ChildThread] WARNING: pipe [GPU 11540, Chrome_ChildThread] W
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545626133103	geckodriver	INFO	geckodriver 0.21.0
+1545626133108	geckodriver	INFO	Listening on 127.0.0.1:55777
+1545626136182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.MZbeNyKjSrF2"
+1545626137378	Marionette	INFO	Listening on port 55787
+1545626137833	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545626137887	Marionette	DEBUG	[6442450945] Frame script loaded
+1545626137889	Marionette	DEBUG	[6442450945] Frame script registered
+1545626137904	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545626138017	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545626143616	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626143623	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626143636	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626143704	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626143705	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626143864	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626143868	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626143951	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626144136	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626144138	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626145854	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545626145862	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545626145870	Marionette	INFO	Stopped listening on port 55787
+[Child 6076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/sr[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545626220673	geckodriver	INFO	geckodriver 0.21.0
+1545626220688	geckodriver	INFO	Listening on 127.0.0.1:55855
+1545626223736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.5YihQVPj6CWA"
+1545626224911	Marionette	INFO	Listening on port 55865
+1545626225382	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545626225445	Marionette	DEBUG	[6442450945] Frame script loaded
+1545626225447	Marionette	DEBUG	[6442450945] Frame script registered
+1545626225465	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545626225581	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545626227268	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626227272	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626227281	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626227345	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626227345	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626227466	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626227469	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626227553	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626227727	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626227730	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626228116	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545626228118	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545626228135	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545626228196	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545626228199	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545626228744	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545626229678	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545626229978	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545626231322	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545626232626	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545626233956	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545626235235	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545626235348	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545626235772	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545626235778	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545626235909	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626235912	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626235916	Marionette	INFO	Stopped listening on port 55865
+[Child 964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 964, Chrome_Child[Child 3240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3240, Chrome_ChildThread] WARNING[Parent 1308, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10312, Chrome[GPU 7140, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545626236471	geckodriver	INFO	geckodriver 0.21.0
+1545626236487	geckodriver	INFO	Listening on 127.0.0.1:55903
+1545626239517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.BluDtWwqhs8k"
+1545626240681	Marionette	INFO	Listening on port 55911
+1545626241163	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545626241262	Marionette	DEBUG	[6442450945] Frame script loaded
+1545626241266	Marionette	DEBUG	[6442450945] Frame script registered
+1545626241296	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545626241419	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545626251685	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626251690	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626251698	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626251762	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626251763	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626251896	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626251900	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626251987	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626252161	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626252164	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626257589	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545626257596	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545626257628	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545626257694	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545626257697	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545626258829	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545626261432	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545626261745	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545626262011	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545626262325	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545626263595	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545626263729	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545626263853	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545626263856	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545626263979	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626263982	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626263987	Marionette	INFO	Stopped listening on port 55911
+[Parent 9056, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11120, C1545626264043	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1545626264047	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 5956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5956, Chrom[Parent 9056, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10308, Chrome_ChildThread] WARN[GPU 11432
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545626463452	geckodriver	INFO	geckodriver 0.21.0
+1545626463452	geckodriver	INFO	Listening on 127.0.0.1:56047
+1545626466530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.soSUyZLr6Ke3"
+1545626467883	Marionette	INFO	Listening on port 56057
+1545626468166	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545626468215	Marionette	DEBUG	[6442450945] Frame script loaded
+1545626468216	Marionette	DEBUG	[6442450945] Frame script registered
+1545626468228	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545626468342	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545626472430	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626472434	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626472520	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626472714	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626472719	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626475044	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545626475048	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545626475068	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545626475128	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545626475131	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545626475545	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/
+1545626475588	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/
+1545626475892	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545626477239	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545626477515	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545626478805	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545626480093	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545626483392	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545626484179	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545626484436	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545626487723	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545626487825	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/
+1545626487949	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/
+1545626487955	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/
+1545626488148	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626488151	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545626488155	Marionette	INFO	Stopped listening on port 56057
+[Child 10888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10888, [Child 3132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3132, Chrome_ChildThread[Parent 5020, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11768, Chrom[GPU 11120,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545627184528	geckodriver	INFO	geckodriver 0.21.0
+1545627184528	geckodriver	INFO	Listening on 127.0.0.1:56431
+1545627187606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.SAL1Fc9p53Ia"
+1545627188843	Marionette	INFO	Listening on port 56442
+1545627189267	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545627189324	Marionette	DEBUG	[6442450945] Frame script loaded
+1545627189325	Marionette	DEBUG	[6442450945] Frame script registered
+1545627189338	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545627189453	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545627190133	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627190137	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627190143	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627190208	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627190209	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627190364	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627190366	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627190457	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627190636	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627190643	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627190964	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545627190967	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545627191002	Marionette	INFO	Stopped listening on port 56442
+1545627191019	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1592:20
+_shutdown@XPIProvider.jsm:1728:12
+flushAllWindowsAsync@SessionStore.jsm:1697:7
+ssi_onQuitApplicationGranted/<@SessionStore.jsm:1624:27
+trigger@AsyncShutdown.jsm:710:23
+_wait@AsyncShutdown.jsm:857:7
+wait@AsyncShutdown.jsm:841:28
+observe@AsyncShutdown.jsm:524:17
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
+[Parent 1868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5376, Chrome_ChildThread] WARNING: pipe error: 1[Child 12056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12056, Chrome_ChildThread] WARNING: pipe error: 1[Parent 1868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3144, Chrome_ChildThread] WARNIN[GPU 7404, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545627277856	geckodriver	INFO	geckodriver 0.21.0
+1545627277872	geckodriver	INFO	Listening on 127.0.0.1:56515
+1545627280949	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.8pcQrgtjlQIb"
+1545627282115	Marionette	INFO	Listening on port 56525
+1545627282597	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545627282677	Marionette	DEBUG	[6442450945] Frame script loaded
+1545627282680	Marionette	DEBUG	[6442450945] Frame script registered
+1545627282709	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545627282827	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545627283564	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627283568	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627283577	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627283640	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627283641	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627283784	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627283787	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627283878	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627284043	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627284048	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627284442	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545627284444	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545627284462	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545627284523	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545627284524	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545627284846	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/
+1545627285010	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/
+1545627285340	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545627286638	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545627286910	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545627288202	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545627289481	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545627292793	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545627293610	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545627293866	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545627293970	Marionette	INFO	Stopped listening on port 56525
+[Parent 3092, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 780, Chrome_ChildThr[Parent 3092, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 12280, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545627323896	geckodriver	INFO	geckodriver 0.21.0
+1545627323896	geckodriver	INFO	Listening on 127.0.0.1:56579
+1545627326974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.dQRC8cfynN4Y"
+1545627328173	Marionette	INFO	Listening on port 56587
+1545627328625	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545627328680	Marionette	DEBUG	[6442450945] Frame script loaded
+1545627328681	Marionette	DEBUG	[6442450945] Frame script registered
+1545627328694	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545627328810	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545627329602	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627329610	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627329616	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627329686	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627329687	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627329833	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627329836	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627329922	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627330096	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627330098	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627330378	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545627330380	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545627330398	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545627330461	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545627330462	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545627330811	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/
+1545627330869	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/
+1545627331176	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545627332485	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545627332744	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545627334035	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545627335325	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545627338653	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545627339446	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545627339699	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545627339793	Marionette	INFO	Stopped listening on port 56587
+[Child 9720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9720, Chrome_ChildThread] WARNING: [Parent 9928, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11584, Chrome_Child[Parent 9928, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5956, Chrome_ChildThread] WA[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545627391074	geckodriver	INFO	geckodriver 0.21.0
+1545627391074	geckodriver	INFO	Listening on 127.0.0.1:56654
+1545627394123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.fd5jJ5XuzLhF"
+1545627395313	Marionette	INFO	Listening on port 56662
+1545627395770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545627395823	Marionette	DEBUG	[6442450945] Frame script loaded
+1545627395825	Marionette	DEBUG	[6442450945] Frame script registered
+1545627395845	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545627395962	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545627397354	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627397359	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627397364	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627397435	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627397435	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627397594	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627397597	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627397711	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627397900	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627397906	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627398781	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545627398784	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545627398803	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545627398865	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545627398870	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545627399597	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/
+1545627399648	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/
+1545627399958	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545627401249	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545627401497	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545627402808	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545627404130	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545627407404	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545627408215	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545627408462	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545627409758	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545627409873	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/
+1545627409999	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/
+1545627410004	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/
+1545627410142	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627410144	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545627410148	Marionette	INFO	Stopped listening on port 56662
+[Child 5692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5692, Chrome_[Parent 10396, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10396, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 2484, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545703358143	geckodriver	INFO	geckodriver 0.21.0
+1545703358159	geckodriver	INFO	Listening on 127.0.0.1:49675
+1545703361186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.cTuRCjrH6mp5"
+1545703362360	Marionette	INFO	Listening on port 49685
+1545703362822	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545703362845	Marionette	DEBUG	[6442450945] Frame script loaded
+1545703362847	Marionette	DEBUG	[6442450945] Frame script registered
+1545703362860	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545703362976	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545703363637	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545703363641	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545703363646	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545703363716	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545703363716	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545703363851	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545703363855	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545703363960	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545703364152	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545703364157	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545703364566	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545703364571	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545703364593	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545703364692	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545703364695	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545703364991	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545703365100	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545703365382	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545703366749	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545703368019	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545703369306	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545703370542	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545703370632	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545703370799	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545703370803	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545703370942	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545703370945	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545703370949	Marionette	INFO	Stopped listening on port 49685
+[Parent 12744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5536, Chrome_C[Parent 12744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chro[Parent 12744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11516, Chr[GPU 6672, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545703371512	geckodriver	INFO	geckodriver 0.21.0
+1545703371512	geckodriver	INFO	Listening on 127.0.0.1:49726
+1545703374532	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.5YuwoqNWbGOs"
+1545703375762	Marionette	INFO	Listening on port 49734
+1545703376174	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545703376226	Marionette	DEBUG	[6442450945] Frame script loaded
+1545703376227	Marionette	DEBUG	[6442450945] Frame script registered
+1545703376240	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545703376354	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545703377032	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545703377038	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545703377043	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545703377108	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545703377109	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545703377255	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545703377259	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545703377344	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545703377509	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545703377511	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545703377809	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545703377812	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545703377831	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545703377892	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545703377894	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545703378193	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545703378305	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545703378578	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545703378798	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545703379110	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545703380363	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545703380472	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545703380595	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545703380599	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/ProfileList
+1545703380728	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545703380731	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545703380738	Marionette	INFO	Stopped listening on port 49734
+[Parent 10280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6224, Chrome_ChildThread] WARNING: pipe error: 109: file[Pa z:ren/but 1ild/0b2u8ild/src/0, ipcGec/chko_romIOThrium/serad]c WA/chroRme/common/ipc_channel_win.NING: pipe error: 109: file z:/build/build/cc, linsrc/ipc/chromium/e 346s
+rc/chrome/common/ipc_channel_win.cc, line 346
+[Child 13260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13260, Chrome_ChildThread] WARNING: pi[Parent 10280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11300, Ch[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545704079555	geckodriver	INFO	geckodriver 0.21.0
+1545704079561	geckodriver	INFO	Listening on 127.0.0.1:50143
+1545704082602	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.jzNBUuPpBWEJ"
+1545704083919	Marionette	INFO	Listening on port 50153
+1545704084214	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545704084269	Marionette	DEBUG	[6442450945] Frame script loaded
+1545704084271	Marionette	DEBUG	[6442450945] Frame script registered
+1545704084285	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545704084398	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545704085067	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704085071	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704085080	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704085146	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704085146	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704085287	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704085289	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704085390	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704085547	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704085548	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704085857	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704085870	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704085915	Marionette	INFO	Stopped listening on port 50153
+1545704085936	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1592:20
+_shutdown@XPIProvider.jsm:1728:12
+flushAllWindowsAsync@SessionStore.jsm:1697:7
+ssi_onQuitApplicationGranted/<@SessionStore.jsm:1624:27
+trigger@AsyncShutdown.jsm:710:23
+_wait@AsyncShutdown.jsm:857:7
+wait@AsyncShutdown.jsm:841:28
+observe@AsyncShutdown.jsm:524:17
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
+[Parent 13308, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6044, Chrome_[Parent 13308, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4024, Chro[Child 4440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4440, Chrome_[GPU 11864
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545704308374	geckodriver	INFO	geckodriver 0.21.0
+1545704308381	geckodriver	INFO	Listening on 127.0.0.1:50325
+1545704311410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.ZMbedKNUKHcQ"
+1545704312691	Marionette	INFO	Listening on port 50335
+1545704313029	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545704313072	Marionette	DEBUG	[6442450945] Frame script loaded
+1545704313073	Marionette	DEBUG	[6442450945] Frame script registered
+1545704313088	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545704313202	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545704313884	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704313936	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704313947	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704314015	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704314015	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704314166	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704314169	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704314260	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704314417	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704314418	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704314796	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704314799	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704314818	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704314936	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704314937	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704315164	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704315168	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704315200	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704315270	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704315274	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704315492	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/EditMyProfile
+1545704315563	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/EditMyProfile
+1545704316442	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545704316678	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545704316912	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545704317015	Marionette	INFO	Stopped listening on port 50335
+[Parent 12508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12908, Chro[Child 11388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11388, Chrome[Parent 12508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5768, Chro[GPU 5868, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545704360738	geckodriver	INFO	geckodriver 0.21.0
+1545704360745	geckodriver	INFO	Listening on 127.0.0.1:50393
+1545704363769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.As44BlvyEUdq"
+1545704365039	Marionette	INFO	Listening on port 50407
+1545704365385	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545704365428	Marionette	DEBUG	[6442450945] Frame script loaded
+1545704365429	Marionette	DEBUG	[6442450945] Frame script registered
+1545704365443	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545704365555	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545704366227	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704366232	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704366243	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704366309	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704366309	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704366472	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704366476	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704366584	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704366739	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704366741	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704367094	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704367096	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704367116	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704367235	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704367236	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704367460	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704367466	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704367510	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704367574	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704367575	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704367800	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/EditMyProfile
+1545704367927	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/EditMyProfile
+1545704368796	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545704369050	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545704369278	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545704369396	Marionette	INFO	Stopped listening on port 50407
+[Parent 7040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3120, C[Child 11568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11568, Chrome_ChildThread] WARNI[Parent 7040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 13028,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545704476053	geckodriver	INFO	geckodriver 0.21.0
+1545704476060	geckodriver	INFO	Listening on 127.0.0.1:50518
+1545704479110	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.mQu0G60U49Rl"
+1545704480393	Marionette	INFO	Listening on port 50528
+1545704480724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545704480770	Marionette	DEBUG	[6442450945] Frame script loaded
+1545704480772	Marionette	DEBUG	[6442450945] Frame script registered
+1545704480785	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545704480901	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545704481548	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704481555	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704481561	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704481627	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704481628	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704481775	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704481777	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704481882	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704482038	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704482041	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704482375	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704482378	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704482398	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704482520	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704482521	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704482747	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704482756	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704482795	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704482865	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704482868	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545704483079	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/EditMyProfile
+1545704483162	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/EditMyProfile
+1545704483377	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/EditMyProfile
+1545704483501	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/EditMyProfile
+1545704483503	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/EditMyProfile
+1545704483693	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/MyProfile?isEditOk=True
+1545704483696	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/MyProfile?isEditOk=True
+1545704486949	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545704487044	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile?isEditOk=True
+1545704487161	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/MyProfile?isEditOk=True
+1545704487162	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile?isEditOk=True
+1545704487292	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704487294	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545704487298	Marionette	INFO	Stopped listening on port 50528
+[Parent 5548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12764, Chrome_Chil[Child 6796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/[Parent 5548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 2612,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545711490010	geckodriver	INFO	geckodriver 0.21.0
+1545711490010	geckodriver	INFO	Listening on 127.0.0.1:53863
+1545711493048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.R9iPaM7aKMqe"
+1545711494243	Marionette	INFO	Listening on port 53874
+1545711494676	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545711494770	Marionette	DEBUG	[6442450945] Frame script loaded
+1545711494772	Marionette	DEBUG	[6442450945] Frame script registered
+1545711494799	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545711494929	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545711495580	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711495584	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711495590	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711495660	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711495661	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711495816	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711495819	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711495914	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711496114	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711496117	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711496470	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545711496472	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545711496488	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545711496676	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545711496677	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545711497004	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/
+1545711497088	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/
+1545711497146	Marionette	INFO	Stopped listening on port 53874
+[Parent 6756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10964, Chrome_ChildThread] WARNING: pipe err[Child 13168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13168, Chrome_ChildThread] WARNING: pipe err[Parent 6756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromiu[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545711556798	geckodriver	INFO	geckodriver 0.21.0
+1545711556814	geckodriver	INFO	Listening on 127.0.0.1:53936
+1545711559879	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.2xM6hLh0gzWh"
+1545711561074	Marionette	INFO	Listening on port 53945
+1545711561502	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545711561593	Marionette	DEBUG	[6442450945] Frame script loaded
+1545711561595	Marionette	DEBUG	[6442450945] Frame script registered
+1545711561625	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545711561751	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545711562497	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711562502	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711562508	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711562579	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711562580	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711562707	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711562711	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711562801	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711562964	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711562966	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711563266	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545711563269	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545711563286	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545711563345	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545711563347	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545711563671	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/
+1545711563745	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/
+1545711564010	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545711564131	Marionette	INFO	Stopped listening on port 53945
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 9388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5024, Chro[Parent 9388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10568, Chrome_[GPU 2260,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545711586662	geckodriver	INFO	geckodriver 0.21.0
+1545711586678	geckodriver	INFO	Listening on 127.0.0.1:53993
+1545711589744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.JrgEptl5R02m"
+1545711590965	Marionette	INFO	Listening on port 54003
+1545711591372	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545711591447	Marionette	DEBUG	[6442450945] Frame script loaded
+1545711591449	Marionette	DEBUG	[6442450945] Frame script registered
+1545711591469	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545711591586	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545711592430	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711592453	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711592469	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711592537	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711592538	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711592681	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711592684	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711592775	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711592947	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711592950	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711593298	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545711593301	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545711593318	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545711593377	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545711593379	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545711593704	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/
+1545711593764	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/
+1545711620847	Marionette	INFO	Stopped listening on port 54003
+[Parent 11856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src[Parent 11856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5492, Chrome_ChildThr[Parent 11856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/c[GPU 8524, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545711717743	geckodriver	INFO	geckodriver 0.21.0
+1545711717750	geckodriver	INFO	Listening on 127.0.0.1:54093
+1545711720819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.ApHkDwcCw8OE"
+1545711721967	Marionette	INFO	Listening on port 54102
+1545711722439	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545711722494	Marionette	DEBUG	[6442450945] Frame script loaded
+1545711722496	Marionette	DEBUG	[6442450945] Frame script registered
+1545711722521	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545711722640	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545711723353	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711723359	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711723364	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711723430	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711723431	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711723583	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711723585	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711723691	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711723871	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711723876	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711724872	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545711724877	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545711724899	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545711724969	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545711724971	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545711725321	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/
+1545711725396	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/
+1545711726696	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545711726947	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545711727256	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545711727512	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545711728772	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545711728876	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/
+1545711729041	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/
+1545711729048	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/
+1545711729182	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711729183	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711729187	Marionette	INFO	Stopped listening on port 54102
+[Parent 4392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11420,[Parent 4392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11464, Chrome_ChildThre[Parent 4392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12144, Chrome_ChildThread] WARNING[GPU 7352, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545711839376	geckodriver	INFO	geckodriver 0.21.0
+1545711839391	geckodriver	INFO	Listening on 127.0.0.1:54196
+1545711842428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.hpW5rk0l7861"
+1545711843639	Marionette	INFO	Listening on port 54204
+1545711844091	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545711844162	Marionette	DEBUG	[6442450945] Frame script loaded
+1545711844165	Marionette	DEBUG	[6442450945] Frame script registered
+1545711844191	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545711844312	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545711845018	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711845026	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711845043	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711845108	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711845108	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711845237	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711845240	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711845335	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711845510	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711845511	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/Auth/SignIn
+1545711845871	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545711845875	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545711845894	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545711845954	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545711845959	Marionette	DEBUG	[6442450945] Received DOM event unload for http://painpoint.ntrlab.ru/UserProfiles/MyProfile
+1545711846293	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://painpoint.ntrlab.ru/
+1545711846364	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://painpoint.ntrlab.ru/
+1545711847662	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545711847886	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545711848111	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545711848241	Marionette	INFO	Stopped listening on port 54204
+[Parent 7484, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5828, Ch[Parent 7484, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/sr[Parent 7484, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12428, Chrom[GPU 2568, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

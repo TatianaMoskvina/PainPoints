@@ -1,0 +1,7 @@
+[
+  "test/test_create_pp.py::test_create_new_pp",
+  "test/test_edit_profile.py::test_create_new_pp",
+  "test/test_new_user.py::test_invite_new_user",
+  "test/test_new_user.py::test_invite_new_co",
+  "test/test_put_like.py::test_add_comment"
+]
