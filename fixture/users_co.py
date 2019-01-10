@@ -7,7 +7,7 @@ class UserCOHelper:
 
     def invite_user(self, email):
         wd = self.app.wd
-        wd.find_element_by_id("inviteUser").click()
+        wd.find_element_by_id("activeInviteUserBtn").click()
         wd.find_element_by_id("emailField").clear()
         wd.find_element_by_id("emailField").send_keys("%s" % email)
         time.sleep(1)
@@ -21,7 +21,7 @@ class UserCOHelper:
     def invite_new_co(self, email):
         # invite user
         wd = self.app.wd
-        wd.find_element_by_id("inviteUser").click()
+        wd.find_element_by_id("activeInviteUserBtn").click()
         wd.find_element_by_id("emailField").click()
         wd.find_element_by_id("emailField").clear()
         # submit invite

@@ -19,7 +19,8 @@ class Application:
 
     def open_home_page(self):
         wd = self.wd
-        wd.get("http://painpoint.ntrlab.ru/Auth/SignIn")
+        #wd.get("http://painpoint.ntrlab.ru/Auth/SignIn") #stage
+        wd.get("http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F") #prod
 
 
 

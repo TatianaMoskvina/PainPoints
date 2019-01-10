@@ -3,7 +3,6 @@
 import time
 
 
-
 def test_create_new_pp(app):
     app.open_home_page()
     app.session.log_in(username="user@user.user", password="123a45=A")

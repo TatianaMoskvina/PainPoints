@@ -25,4 +25,17 @@ class UserHelper:
         #save edition
         wd.find_element_by_xpath("(.//*[normalize-space(text()) and normalize-space(.)='User Profile'])[1]/following::button[1]").click()
 
+    def change_password(self):
+        wd = self.app.wd
+        wd.find_element_by_id("changePasswordBtn").click()
+        wd.find_element_by_id("oldPassword").clear()
+        wd.find_element_by_id("oldPassword").send_keys("Qq!123")
+        wd.find_element_by_id("newPassword").clear()
+        wd.find_element_by_id("newPassword").send_keys("Qq!123")
+        wd.find_element_by_id("confirmPassword").clear()
+        wd.find_element_by_id("confirmPassword").send_keys("Qq!123")
+        wd.find_element_by_id("SaveBtn").click()
+
+
+
 

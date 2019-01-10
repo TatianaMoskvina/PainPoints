@@ -1024,3 +1024,397 @@ IPDL protocol error: Handler returned error code!
 [Child 12428, Chrom[GPU 2568, Chrome_
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1547090532537	geckodriver	INFO	geckodriver 0.21.0
+1547090532544	geckodriver	INFO	Listening on 127.0.0.1:54281
+1547090535588	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.2v0SxIFGLA0g"
+1547090536751	Marionette	INFO	Listening on port 54295
+1547090537201	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547090537260	Marionette	DEBUG	[6442450945] Frame script loaded
+1547090537261	Marionette	DEBUG	[6442450945] Frame script registered
+1547090537273	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1547090537654	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1547090541799	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090541803	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090541809	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090542007	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090542008	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090542171	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090542174	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090542259	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090542668	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090542672	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090543825	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547090543836	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547090543880	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547090544264	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547090544267	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547090544499	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547090544504	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547090544776	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547090545124	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547090547271	Marionette	INFO	Stopped listening on port 54295
+[Parent 7196, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11276, Chrome_[Parent 7196, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5824, Chro[GPU 5392, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1547090579764	geckodriver	INFO	geckodriver 0.21.0
+1547090579771	geckodriver	INFO	Listening on 127.0.0.1:54402
+1547090582816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.zNQ3pByYmbzL"
+1547090584035	Marionette	INFO	Listening on port 54414
+1547090584434	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547090584520	Marionette	DEBUG	[6442450945] Frame script loaded
+1547090584523	Marionette	DEBUG	[6442450945] Frame script registered
+1547090584551	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1547090584932	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1547090588215	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090588219	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090588225	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090588420	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090588421	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090588591	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090588595	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090588684	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090588984	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090588987	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090589141	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/Auth/SignIn
+1547090589145	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/Auth/SignIn
+[Parent 7256, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7256, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2472, Ch[Cromhile_Cd hil220dTh0, reChrad]ome WA_ChRNIildNG: pipe erThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7256, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7468, Chrome_C1547090617406	Marionette	INFO	Stopped listening on port 54414
+[GPU 4948,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1547090626093	geckodriver	INFO	geckodriver 0.21.0
+1547090626099	geckodriver	INFO	Listening on 127.0.0.1:54524
+1547090629144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.ntQAJvgKDTUV"
+1547090630367	Marionette	INFO	Listening on port 54538
+1547090630757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547090630806	Marionette	DEBUG	[6442450945] Frame script loaded
+1547090630808	Marionette	DEBUG	[6442450945] Frame script registered
+1547090630821	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1547090631186	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1547090634501	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090634505	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090634513	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090634707	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090634708	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090634866	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090634869	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090634964	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090635391	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090635394	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547090637212	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547090637217	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547090637257	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547090637646	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547090637649	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547090637882	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547090637886	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547090638171	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547090638536	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547090640778	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547090640832	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547090641215	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547090641218	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547090641353	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/Auth/SignIn
+1547090641355	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/Auth/SignIn
+1547090641360	Marionette	INFO	Stopped listening on port 54538
+[Child 7808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/s[Parent 4684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11576, Chrome_ChildThr[Parent 4684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 872, Chrome_C[GPU 6716, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1547091029105	geckodriver	INFO	geckodriver 0.21.0
+1547091029105	geckodriver	INFO	Listening on 127.0.0.1:55294
+1547091032172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.WgMfQ8Kg8Eeq"
+1547091033370	Marionette	INFO	Listening on port 55306
+1547091033822	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547091033879	Marionette	DEBUG	[6442450945] Frame script loaded
+1547091033881	Marionette	DEBUG	[6442450945] Frame script registered
+1547091033903	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1547091034283	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1547091038220	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091038224	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091038233	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091038420	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091038421	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091038596	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091038599	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091038686	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091039110	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091039116	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091041001	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091041004	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091041024	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091041219	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091041222	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091042082	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/
+1547091042910	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/
+1547091043245	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091044574	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091044858	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091046180	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091047447	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091050712	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091051515	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091051781	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091053052	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091053168	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/
+1547091053665	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/
+1547091053668	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/
+1547091053806	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/Auth/SignIn
+1547091053808	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/Auth/SignIn
+1547091053815	Marionette	INFO	Stopped listening on port 55306
+[Child 7704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_wi1547091053867	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Parent 9432, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4596, Chro1547091053875	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1547091053877	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[GPU 4920, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1547091077795	geckodriver	INFO	geckodriver 0.21.0
+1547091077811	geckodriver	INFO	Listening on 127.0.0.1:55419
+1547091080883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.32EI6Q7pVdMG"
+1547091082016	Marionette	INFO	Listening on port 55433
+1547091082040	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547091082074	Marionette	DEBUG	[6442450945] Frame script loaded
+1547091082079	Marionette	DEBUG	[6442450945] Frame script registered
+1547091082100	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1547091082507	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1547091085278	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091085282	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091085288	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091085477	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091085479	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091085635	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091085638	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091085724	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091086143	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091086148	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091088059	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091088063	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091088081	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091088265	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091088268	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091088618	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/
+1547091089466	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/
+1547091089808	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091091140	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091091432	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091092739	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091094030	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091137232	Marionette	INFO	Stopped listening on port 55433
+[Parent 4592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10796[Parent 4592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11320, Chrome_ChildThread] W[Parent 4592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1196, [GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1547091209176	geckodriver	INFO	geckodriver 0.21.0
+1547091209176	geckodriver	INFO	Listening on 127.0.0.1:55696
+1547091212259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.MYxHyCKvkwnT"
+1547091213436	Marionette	INFO	Listening on port 55708
+1547091213912	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547091213985	Marionette	DEBUG	[6442450945] Frame script loaded
+1547091213987	Marionette	DEBUG	[6442450945] Frame script registered
+1547091214007	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1547091214382	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1547091218167	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091218171	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091218180	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091218374	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091218374	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091218520	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091218523	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091218616	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091219037	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091219041	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091220288	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091220299	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091220339	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091220524	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091220528	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091220891	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/
+1547091221757	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/
+1547091222112	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091223373	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091223642	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091224979	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091226273	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091229575	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091230389	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091230645	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091231950	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091232091	Marionette	INFO	Stopped listening on port 55708
+[Child 6588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, li[Parent 7828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1272, Chro[Parent 7828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9532, Chrome_ChildThread] W[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1547091371582	geckodriver	INFO	geckodriver 0.21.0
+1547091371582	geckodriver	INFO	Listening on 127.0.0.1:56020
+1547091374647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.ImE1XAq5uKZE"
+1547091375781	Marionette	INFO	Listening on port 56034
+1547091375785	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547091375820	Marionette	DEBUG	[6442450945] Frame script loaded
+1547091375826	Marionette	DEBUG	[6442450945] Frame script registered
+1547091375854	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1547091376238	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1547091379513	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091379517	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091379523	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091379714	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091379715	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091379880	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091379883	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091379968	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091380377	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091380381	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091381766	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091381768	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091381786	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091381969	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091381973	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091382320	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/
+1547091383785	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/
+1547091384115	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091385423	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091385694	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091387022	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091388315	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091391612	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091392431	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091392681	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091394007	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091394277	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091395589	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091396883	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091400155	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091400981	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091401230	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091402499	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091402597	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/
+1547091402967	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/
+1547091402970	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/
+1547091403105	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/Auth/SignIn
+1547091403107	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/Auth/SignIn
+1547091403114	Marionette	INFO	Stopped listening on port 56034
+[Child 6500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6500, Chrom[Parent 2836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10520, Chrome_ChildThread][Child 6472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6472, [GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1547091484519	geckodriver	INFO	geckodriver 0.21.0
+1547091484519	geckodriver	INFO	Listening on 127.0.0.1:56273
+1547091487620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.B4uv62FOcSDz"
+1547091488810	Marionette	INFO	Listening on port 56287
+1547091489288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547091489354	Marionette	DEBUG	[6442450945] Frame script loaded
+1547091489356	Marionette	DEBUG	[6442450945] Frame script registered
+1547091489384	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1547091489770	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1547091494681	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091494685	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091494692	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091494884	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091494885	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091495048	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091495052	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091495141	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091495555	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091495559	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091496878	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091496883	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091496915	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091497099	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091497100	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091497433	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/
+1547091498131	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/
+1547091498462	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091499761	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091499900	Marionette	INFO	Stopped listening on port 56287
+[Parent 3076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4672, Chrome_[Child 7956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7956, Chrome_Chi[Parent 3076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4620, Chrome_ChildThread] WARNING: pipe error: [GPU 10572, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1547091516659	geckodriver	INFO	geckodriver 0.21.0
+1547091516659	geckodriver	INFO	Listening on 127.0.0.1:56374
+1547091519737	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TMOSKV~1\\AppData\\Local\\Temp\\rust_mozprofile.hsQbCCm3Qk5T"
+1547091520905	Marionette	INFO	Listening on port 56388
+1547091521396	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547091521453	Marionette	DEBUG	[6442450945] Frame script loaded
+1547091521455	Marionette	DEBUG	[6442450945] Frame script registered
+1547091521479	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1547091521866	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1547091526897	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091526901	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091526907	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091527098	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091527099	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091527250	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091527252	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091527341	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091527764	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091527768	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/Auth/SignIn?ReturnUrl=%2F
+1547091529819	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091529832	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091529858	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091530056	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091530061	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/UserProfiles/MyProfile
+1547091530415	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/
+1547091531960	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/
+1547091532297	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091533631	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091533901	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091535238	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091536520	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091539780	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091540620	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091540874	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091542197	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091542494	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091543803	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091545053	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091548310	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091549119	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091549375	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091550653	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1547091550735	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://demo-pp.ntrlab.ru/
+1547091551121	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://demo-pp.ntrlab.ru/
+1547091551126	Marionette	DEBUG	[6442450945] Received DOM event unload for http://demo-pp.ntrlab.ru/
+1547091551270	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://demo-pp.ntrlab.ru/Auth/SignIn
+1547091551273	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://demo-pp.ntrlab.ru/Auth/SignIn
+1547091551280	Marionette	INFO	Stopped listening on port 56388
+[Child 704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 704, Chrome_ChildThread] WARNING: pipe error[Parent 8240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8860, Chrome_Ch[Parent 8240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9988, [GPU 987
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
