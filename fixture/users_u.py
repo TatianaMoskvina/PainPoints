@@ -5,7 +5,8 @@ class UserHelper:
 
     def open_users_page(self):
         wd = self.app.wd
-        wd.find_element_by_xpath("(.//*[normalize-space(text()) and normalize-space(.)='Pain Points'])[1]/following::span[1]").click()
+        wd.find_element_by_id("myProfile").click()
+        wd.find_element_by_link_text("Profile").click()
 
     def edit_profile(self):
         wd = self.app.wd
