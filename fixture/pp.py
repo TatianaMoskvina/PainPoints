@@ -62,9 +62,12 @@ class PainPointsHelper:
         wd.find_element_by_xpath("//ul[@id='newCategory_listbox']/li").click()
         time.sleep(1)
         # Choose Tags
-        wd.find_element_by_xpath("(.//*[normalize-space(text()) and normalize-space(.)='Tags'])[2]/following::div[2]").click()
+        # Choose Tags
+        wd.find_element_by_xpath(
+            "(.//*[normalize-space(text()) and normalize-space(.)='Tags'])[2]/following::div[2]").click()
         time.sleep(1)
-        wd.find_element_by_xpath("(.//*[normalize-space(text()) and normalize-space(.)='Any Tag'])[4]/following::li[1]").click()
+        wd.find_element_by_xpath(
+            "(.//*[normalize-space(text()) and normalize-space(.)='No data found.'])[4]/following::li[1]").click()
         time.sleep(3)
         wd.find_element_by_id("newDescription").click()
         wd.find_element_by_id("newDescription").clear()
@@ -85,7 +88,7 @@ class PainPointsHelper:
             "(.//*[normalize-space(text()) and normalize-space(.)='Tags'])[2]/following::div[2]").click()
         time.sleep(1)
         wd.find_element_by_xpath(
-            "(.//*[normalize-space(text()) and normalize-space(.)='Any Tag'])[4]/following::li[1]").click()
+            "(.//*[normalize-space(text()) and normalize-space(.)='No data found.'])[4]/following::li[1]").click()
         time.sleep(3)
         wd.find_element_by_id("newDescription").click()
         wd.find_element_by_id("newDescription").clear()
@@ -142,3 +145,9 @@ class PainPointsHelper:
         odd = wd.find_elements_by_class_name('odd')
         list = even + odd
         return list
+
+    def export_pp(self):
+        wd = self.app.wd
+        wd.find_element_by_xpath("//div[2]/a/span").click()
+        wd.find_element_by_id("exportToBBLV").click()
+        wd.find_element_by_id("export").click()

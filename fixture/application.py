@@ -9,7 +9,7 @@ from fixture.pp import PainPointsHelper
 class Application:
 
     def __init__(self):
-        self.wd = webdriver.Firefox(executable_path=r'C:\Users\tmoskvina\Downloads\geckodriver-v0.21.0-win64 (1)\geckodriver')
+        self.wd = webdriver.Firefox(executable_path=r'C:\Windows\System32\geckodriver.exe')
         self.wd.implicitly_wait(30)
         self.session = SessionHelper(self)
         self.userCO = UserCOHelper(self)
