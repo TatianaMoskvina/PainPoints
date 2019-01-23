@@ -18,6 +18,17 @@ class UserCOHelper:
         wd.find_element_by_id("activeYesInviteBtn").click()
 
 
+    def delete_user(self):
+        wd = self.app.wd
+        self.open_users_tab()
+        if wd.find_element_by_xpath(
+                "(.//*[normalize-space(text()) and normalize-space(.)='First Name'])[1]/following::th[1]") == 'Toster':
+            wd.find_element_by_id("deleteBtn_f59317e2-6687-4c85-8bf8-f36f708186d2").click()
+            wd.find_element_by_id("activeYesDeleteBtn").click()
+        else: pass
+
+
+
     def invite_new_co(self, email):
         # invite user
         wd = self.app.wd
@@ -31,8 +42,7 @@ class UserCOHelper:
     def open_users_tab(self):
         wd = self.app.wd
         # open pain points page
-        wd.find_element_by_xpath(
-            "(.//*[normalize-space(text()) and normalize-space(.)='Pain Points'])[1]/following::span[1]").click()
+        wd.find_element_by_xpath("(.//*[normalize-space(text()) and normalize-space(.)='Pain Points'])[1]/following::span[1]").click()
 
 
     def edit_profile(self):
