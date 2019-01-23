@@ -7,7 +7,7 @@ def test_create_several_pp(app):
     app.pp.open_pain_points_tab()
     app.pp.create_several_pp()
     time.sleep(3)
-    app.pp.create_several_pp()
+    app.pp.create_new_pp()
     time.sleep(1)
     app.session.log_out()
 
