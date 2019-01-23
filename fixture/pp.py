@@ -151,3 +151,19 @@ class PainPointsHelper:
         wd.find_element_by_xpath("//div[2]/a/span").click()
         wd.find_element_by_id("exportToBBLV").click()
         wd.find_element_by_id("export").click()
+
+
+    def edit_pp(self):
+        wd = self.app.wd
+        wd.find_element_by_xpath("(.//*[normalize-space(text()) and normalize-space(.)='Likes'])[1]/following::td[3]").click()
+        time.sleep(1)
+        wd.find_element_by_xpath("(.//*[normalize-space(text()) and normalize-space(.)='Detailed information'])[1]/following::span[3]").click()
+        time.sleep(1)
+        wd.find_element_by_xpath("(.//*[normalize-space(text()) and normalize-space(.)='Category'])[4]/following::span[5]").click()
+        time.sleep(1)
+        wd.find_element_by_xpath("(.//*[normalize-space(text()) and normalize-space(.)='technical process problem'])[2]/following::li[1]").click()
+        time.sleep(1)
+        wd.find_element_by_id("newDescription").click()
+        wd.find_element_by_id("newDescription").clear()
+        wd.find_element_by_id("newDescription").send_keys("test auto edit")
+        wd.find_element_by_id("EditPainPoint").click()
