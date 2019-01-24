@@ -5,6 +5,7 @@ from fixture.session import SessionHelper
 from fixture.users_u import UserHelper
 from fixture.users_co import UserCOHelper
 from fixture.pp import PainPointsHelper
+from fixture.AdminPanel import AdminPanelHelper
 
 class Application:
 
@@ -15,6 +16,7 @@ class Application:
         self.userCO = UserCOHelper(self)
         self.user = UserHelper(self)
         self.pp = PainPointsHelper(self)
+        self.AdPan = AdminPanelHelper(self)
 
 
     def open_home_page(self):

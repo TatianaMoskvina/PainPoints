@@ -167,3 +167,9 @@ class PainPointsHelper:
         wd.find_element_by_id("newDescription").clear()
         wd.find_element_by_id("newDescription").send_keys("test auto edit")
         wd.find_element_by_id("EditPainPoint").click()
+
+
+    def decline_pp(self):
+        wd = self.app.wd
+        wd.find_element_by_xpath("(.//*[normalize-space(text()) and normalize-space(.)='Likes'])[1]/following::td[3]").click()
+        wd.find_element_by_xpath("//input[@value='Decline']").click()

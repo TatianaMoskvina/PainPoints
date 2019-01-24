@@ -21,11 +21,16 @@ class UserCOHelper:
     def delete_user(self):
         wd = self.app.wd
         self.open_users_tab()
-        if wd.find_element_by_xpath(
-                "(.//*[normalize-space(text()) and normalize-space(.)='First Name'])[1]/following::th[1]") == 'Toster':
-            wd.find_element_by_id("deleteBtn_f59317e2-6687-4c85-8bf8-f36f708186d2").click()
-            wd.find_element_by_id("activeYesDeleteBtn").click()
-        else: pass
+        wd.find_element_by_xpath("(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/preceding::span[3]").click()
+        wd.find_element_by_xpath("//td[7]/input").click()
+        wd.find_element_by_id("activeYesDeleteBtn").click()
+
+    def restore_user(self):
+        wd = self.app.wd
+        self.open_users_tab()
+        wd.find_element_by_xpath("//li[@id='archivedTab']/span[2]").click()
+        wd.find_element_by_xpath("//span[@id='restoreBtn_f59317e2-6687-4c85-8bf8-f36f708186d2']/i").click()
+        wd.find_element_by_id("archivedYesRestoreBtn").click()
 
 
 
